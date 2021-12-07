@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+}
+.container h1 {
+  text-align: center;
+  color: black;
+}
+.container:hover {
+  background-color: rgba(240, 230, 230, 0.753);
+  padding: 2px;
+}
+h2 {
+  text-align: center;
+  color: green;
+}
+.linh1 {
+  background-color: greenyellow;
+}
+
+.linh2 {
+  margin-top: 3px;
+}
+/* css main */
+.tronglinh {
+  display: flex;
+}
