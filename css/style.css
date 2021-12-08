@@ -1,18 +1,22 @@
-html {
-  height: 100%;
+/* css for header */
+a {
+  text-decoration: none;
 }
+
 .container h1 {
   text-align: center;
   color: black;
+}
+
+h2 {
+  text-align: center;
+  color: green;
 }
 .container:hover {
   background-color: rgba(240, 230, 230, 0.753);
   padding: 2px;
 }
-h2 {
-  text-align: center;
-  color: green;
-}
+
 .linh1 {
   background-color: greenyellow;
 }
@@ -20,7 +24,8 @@ h2 {
 .linh2 {
   margin-top: 3px;
 }
+
 /* css main */
 .tronglinh {
-  display: flex;
+  line-height: 0.5px;
 }
